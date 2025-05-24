@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Oct 2023 11:16:44 at https://themesbrand.com/steex/layouts/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesbrand.com/steex/layouts/ -O1 "C:\Users\LENOVO\Downloads\popin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:19:16	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/layouts/apps-ecommerce-seller-details.html (from https://themesbrand.com/steex/layouts/)
+11:19:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/steex/layouts/assets/fonts/materialdesignicons-webfont.woff2?v=6.5.95
+11:19:16	Warning: 	File not parsed, looks like binary: https://themesbrand.com/steex/layouts/assets/fonts/boxicons.woff2
+11:19:17	Warning: 	File not parsed, looks like binary: https://themesbrand.com/steex/layouts/assets/fonts/remixicon.woff2?t=1590207869815
+11:19:20	Warning: 	File not parsed, looks like binary: https://themesbrand.com/steex/layouts/assets/fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47
+11:19:20	Warning: 	File not parsed, looks like binary: https://themesbrand.com/steex/layouts/assets/fonts/Phosphor.woff2
+11:19:33	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/layouts/assets/images/modal-bg.png (from https://themesbrand.com/steex/layouts/assets/css/app.min.css)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/libs/prismjs/prism.js (from https://themesbrand.com/steex/layouts/ui-colors.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/users/avatar-2.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/small/img-2.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/users/avatar-1.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/small/img-3.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/users/avatar-3.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/users/avatar-4.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Error: 	"Not Found" (404) at link https://themesbrand.com/steex/assets/images/users/avatar-5.jpg (from https://themesbrand.com/steex/layouts/ui-utilities.html)
+11:19:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://apexcharts.com/samples/assets/stock-prices.js (from https://themesbrand.com/steex/layouts/charts-apex-line.html)
+11:19:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://apexcharts.com/samples/assets/github-data.js (from https://themesbrand.com/steex/layouts/charts-apex-area.html)
+11:19:35	Warning: 	Retry after error 502 (Bad Gateway) at link https://apexcharts.com/samples/assets/ohlc.js (from https://themesbrand.com/steex/layouts/charts-apex-candlestick.html)
+11:19:35	Warning: 	Retry after error 502 () at link https://apexcharts.com/samples/assets/stock-prices.js (from https://themesbrand.com/steex/layouts/charts-apex-line.html)
+11:19:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://apexcharts.com/samples/assets/github-data.js (from https://themesbrand.com/steex/layouts/charts-apex-area.html)
+11:19:37	Warning: 	Retry after error 502 () at link https://apexcharts.com/samples/assets/ohlc.js (from https://themesbrand.com/steex/layouts/charts-apex-candlestick.html)
+11:19:37	Error: 	"" (502) after 2 retries at link https://apexcharts.com/samples/assets/stock-prices.js (from https://themesbrand.com/steex/layouts/charts-apex-line.html)
+11:19:37	Error: 	"Bad Gateway" (502) after 2 retries at link https://apexcharts.com/samples/assets/github-data.js (from https://themesbrand.com/steex/layouts/charts-apex-area.html)
+11:19:37	Error: 	"" (502) after 2 retries at link https://apexcharts.com/samples/assets/ohlc.js (from https://themesbrand.com/steex/layouts/charts-apex-candlestick.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 53 seconds : 541 links scanned, 521 files written (63322426 bytes overall) [29557788 bytes received at 170854 bytes/sec], 39533047 bytes transferred using HTTP compression in 317 files, ratio 14%, 20.6 requests per connection
+(13 errors, 11 warnings, 0 messages)
