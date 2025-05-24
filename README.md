@@ -83,7 +83,7 @@ Edit
 
 
 ## 👨‍💻 Developer
-Ahmad Saiful – [AhmadSaifulPro](https://github.com/AhmadSaifulPro)
-Email: ahmadsaifullpro@gmail.com
-Universitas: Universitas Safin Pati
-Prodi: Teknik Informatika
+Ahmad Saiful – [AhmadSaifulPro](https://github.com/AhmadSaifulPro)<br>
+Email: ahmadsaifullpro@gmail.com<br>
+Universitas: Universitas Safin Pati<br>
+Prodi: Teknik Informatika<br>
