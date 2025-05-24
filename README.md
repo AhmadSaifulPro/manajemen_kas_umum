@@ -65,11 +65,11 @@ Lalu buka: http://localhost:8000
 
 
 📦 Package Laravel yang Digunakan
+```bash
 json
 Salin
 Edit
-"require": 
-{
+"require": {
     "php": "^8.2",
     "barryvdh/laravel-dompdf": "^3.1",
     "doctrine/dbal": "^4.2",
@@ -79,6 +79,7 @@ Edit
     "maatwebsite/excel": "^3.1",
     "phpoffice/phpspreadsheet": "^1.29"
 }
+```
 
 
 
