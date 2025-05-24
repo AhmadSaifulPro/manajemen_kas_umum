@@ -66,9 +66,6 @@ Lalu buka: http://localhost:8000
 
 📦 Package Laravel yang Digunakan
 ```bash
-json
-Salin
-Edit
 "require": {
     "php": "^8.2",
     "barryvdh/laravel-dompdf": "^3.1",
